@@ -83,7 +83,7 @@ The calculator handles the 'ZeroDivisionError' when attempting to divide by zero
 
 ## License
 
-This project is licensed under the NO License.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
